@@ -1,8 +1,5 @@
-### Hi there 👋, I am ManhNe-ahihi😁🔭
+### Hi there 👋, I am ManhNe-ahihi🔭
 <!--
-**rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +12,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-
-**Languages and Tools:** 
-### 🔨 Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&hide=TeX&layout=compact)
 <br/>
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GitCuaManhNe-Ahihi&count_private=true&show_icons=true&include_all_commits=true)
+
+### Visitor:eyes:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GitCuaManhNe-Ahihi.GitCuaManhNe-Ahihi)
+<br/>
+### 🔨 Languages and Tools:
 <a href="https://git-scm.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
@@ -173,8 +174,6 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-<br/>
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GitCuaManhNe-Ahihi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GitCuaManhNe-Ahihi.GitCuaManhNe-Ahihi)
+
+
