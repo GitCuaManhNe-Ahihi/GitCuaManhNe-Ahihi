@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:** 
 ### 🔨 Languages and Tools:
-
+<br/>
 <a href="https://git-scm.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
@@ -173,10 +173,7 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-© 2022 GitHub, Inc.
-Terms
-P
-
+<br/>
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GitCuaManhNe-Ahihi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&hide=TeX&layout=compact)
 
