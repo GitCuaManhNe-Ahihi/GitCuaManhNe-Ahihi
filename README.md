@@ -16,8 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&hide=TeX&layout=compact)
 <br/>
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GitCuaManhNe-Ahihi&count_private=true&show_icons=true&include_all_commits=true)
-<iframe height="700px" width="100%" src="https://gitcuamanhne-ahihi.github.io/music_visualize/dist/" title="W3Schools Free Online Web Tutorials">
-</iframe>
+
 ### Visitor:eyes:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GitCuaManhNe-Ahihi.GitCuaManhNe-Ahihi)
 <br/>
