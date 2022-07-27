@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&hide=TeX&layout=compact)
 <br/>
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GitCuaManhNe-Ahihi&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCuaManhNe-Ahihi&layout=compact&theme=radical&langs_count=8)]
 
 ### Visitor:eyes:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GitCuaManhNe-Ahihi.GitCuaManhNe-Ahihi)
